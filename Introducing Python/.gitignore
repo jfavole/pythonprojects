@@ -1,2 +1,8 @@
 ## iPython Checkpoints
 *checkpoint.ipynb
+
+## nohup file from redis test
+nohup.out
+
+## Ch 11 had no exercises to run in a notebook.
+Ch11_ConcurrencyAndNetworks.ipynb
